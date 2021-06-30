@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question1">2+2=4</string>
+    <string name="question2">2*2=4</string>
+    <string name="question3">3+3=6</string>
+    <string name="question4">3*3=9</string>
+    <string name="question5">4+4=8</string>
+    <string name="question6">4*4=16</string>
+    <string name="question7">5+5=10</string>
+    <string name="question8">5*5=25</string>
+    <string name="question9">6+6=12</string>
+    <string name="question10">6*6=36</string>
+    <string name="yes_btn">Да</string>
+    <string name="no_btn">Нет</string>
+    <string name="correct">Правильно</string>
+    <string name="incorrect">Не правильно</string>
+
+</resources>
